@@ -1,0 +1,12 @@
+[submodule "game-of-life"]
+	path = game-of-life
+	url = git@github.com:notnuff-university-projects/testing-lab-1.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:notnuff-university-projects/testing-lab-2.git
+[submodule "tetris"]
+	path = tetris
+	url = git@github.com:notnuff-university-projects/testing-lab-3.git
+[submodule "tetris++"]
+	path = tetris++
+	url = git@github.com:notnuff-university-projects/testing-lab-4.git
